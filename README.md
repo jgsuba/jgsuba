@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jgsuba
 - 👀 I’m interested in networking technology
 - 🌱 I’m currently learning HTML, CSS, Python, C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on deez
 - 📫 How to reach me LinkedIn or Email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
